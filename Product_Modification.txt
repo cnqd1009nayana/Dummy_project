@@ -1,0 +1,2 @@
+perfect. but one small change like in the preview or in the variant section under adding product ,  we need to show in preview the default attribute value selected by highlighting it bcoz in the preview a user can select only one option for each attributes shown to him .
+likewise we also need to update in the vaiant section for marking default value int he selected values of attributes
